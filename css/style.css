@@ -82,7 +82,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url(/img/fondo.webp) no-repeat;
+    background: url(/img/fondo.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
